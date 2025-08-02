@@ -45,6 +45,11 @@ Just some of my everyday languages + toolset
 
 ### 🌱 Current Projects
 
+- [mcp-go-assistant](https://github.com/catpaladin/mcp-go-assistant) - A MCP for Go Projects
+- [mcp-typescript-assistant](https://github.com/catpaladin/mcp-typescript-assistant) - A MCP for Typescript Projects
+
+### Other Projects
+
 - [Jenn AI](https://github.com/So-Sahari/jenn-ai) - A Generative AI chat app written in Go + HTMX to call LLMs in Ollama and Bedrock
 - [Net Tools](https://github.com/catpaladin/net-tools) - A commandline tool to help with my day-to-day network troubleshooting
 - [ssoctx](https://github.com/catpaladin/ssoctx) - Commandline tool to switch AWS SSO account context
