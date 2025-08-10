@@ -47,6 +47,7 @@ Just some of my everyday languages + toolset
 
 - [mcp-go-assistant](https://github.com/catpaladin/mcp-go-assistant) - A MCP for Go Projects
 - [mcp-typescript-assistant](https://github.com/catpaladin/mcp-typescript-assistant) - A MCP for Typescript Projects
+- [resume-generator](https://github.com/catpaladin/resume-generator) - A Nextjs Typescript Project to help build and print a PDF resume
 
 ### Other Projects
 
